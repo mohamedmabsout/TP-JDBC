@@ -7,17 +7,25 @@ Ce projet Java Swing offre une interface graphique pour gérer les clients et le
 ## Screenshots
 
  Gestion de service
- ![WhatsApp Image 2023-10-18 at 23 24 18_c8024ffa](https://github.com/mohamedmabsout/TP-JDBC/assets/147514368/d6f7bf8a-4bf9-447e-8a2c-bec2d8c4e3d7)
+![WhatsApp Image 2023-10-18 at 23 24 18_c8024ffa](https://github.com/mohamedmabsout/tp-JDBC/assets/147514368/6eec5399-5390-448a-b82a-8341360d43cd)
+
 
  Gestion de client
- ![WhatsApp Image 2023-10-18 at 23 24 20_4510ddd2](https://github.com/mohamedmabsout/TP-JDBC/assets/147514368/c133d517-7dd4-4392-9d68-f333e7a62540)
+
+![WhatsApp Image 2023-10-18 at 23 24 20_4510ddd2](https://github.com/mohamedmabsout/tp-JDBC/assets/147514368/bf07d3b0-e6c7-4b11-94d6-3fa5dc3c119d)
+
 
  Recherche
- ![WhatsApp Image 2023-10-18 at 23 24 20_7eaf7440](https://github.com/mohamedmabsout/TP-JDBC/assets/147514368/6cf91934-c5ad-4e5e-9b48-036883dc1f6e)
+ 
+![WhatsApp Image 2023-10-18 at 23 24 20_7eaf7440](https://github.com/mohamedmabsout/tp-JDBC/assets/147514368/fd71e896-c25b-4b6e-b844-57de3af74d3c)
+
+ 
 
 ## TableSql
 
-![WhatsApp Image 2023-10-18 at 23 24 53_02987d15](https://github.com/mohamedmabsout/TP-JDBC/assets/147514368/02f20374-1aed-45fa-adda-1f87b1aa43d9)
+![WhatsApp Image 2023-10-18 at 23 24 53_02987d15](https://github.com/mohamedmabsout/tp-JDBC/assets/147514368/13df8120-28ca-4179-8083-3d2cb77eb7e3)
+
+
 
 # Technologies utilisées
    Ajouter un nouveau Service
